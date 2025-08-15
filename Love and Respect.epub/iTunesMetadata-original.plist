@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Emerson Eggerichs</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>5F60F6F284BCF75CD53370E87EB5598F</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>7307240FCB60CEB92D6C92064F93ACDB</string>
+		<key>publisher-unique-id</key>
+		<string>9781418569051</string>
+		<key>unique-id</key>
+		<integer>-2094498357122099208</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>ebook</string>
+	<key>itemName</key>
+	<string>Love and Respect</string>
+	<key>playlistName</key>
+	<string>Love and Respect</string>
+	<key>releaseDate</key>
+	<string></string>
+</dict>
+</plist>
